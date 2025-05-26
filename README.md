@@ -1,2 +1,2 @@
 # Chess-Engine
-I tried to make an algorithm that analyses chess moves and gives the best optimal move for the player .
+An experimental algorithm designed to analyze chess positions and suggest the most optimal move for the player. It evaluates possible moves based on strategic outcomes to assist in decision-making during gameplay.
